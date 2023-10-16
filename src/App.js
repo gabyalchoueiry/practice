@@ -8,6 +8,7 @@ function App() {
     <p>
     <Child1/>
     <Child2/>
+    <p>hegy</p>
     </p>
     </div>
   );
