@@ -1,6 +1,4 @@
-function Child2(){
-    return(
-        <button>Hello Gaby</button>
-    );
+function Child2() {
+  return <button>Hello Gaby</button>;
 }
-export default Child2
+export default Child2;

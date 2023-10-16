@@ -1,7 +1,4 @@
-
-function Child1(){
-    return(
-        <p>Hello World!</p>
-    );
+function Child1() {
+  return <p>Hello World!xx</p>;
 }
-export default Child1 
+export default Child1;
